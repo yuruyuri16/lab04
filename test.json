@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "country": "PE",
+    "amount": 100
+  },
+  {
+    "id": 2,
+    "country": "PE",
+    "amount": 101
+  },
+  {
+    "id": 3,
+    "country": "PE",
+    "amount": 102
+  },
+  {
+    "id": 4,
+    "country": "PE",
+    "amount": 104
+  },
+  {
+    "id": 5,
+    "country": "PE",
+    "amount": 106
+  },
+  {
+    "id": 6,
+    "country": "PE",
+    "amount": 107
+  },
+  {
+    "id": 7,
+    "country": "US",
+    "amount": 109
+  },
+  {
+    "id": 8,
+    "country": "BR",
+    "amount": 110
+  }
+]
